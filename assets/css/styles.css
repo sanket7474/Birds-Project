@@ -1,0 +1,198 @@
+.info{
+
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+.map {
+
+  margin-top: 100px;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 28px;
+    align-content: center;
+}
+
+.pagination a.active {
+    background-color: black;
+    color: white;
+}
+
+.pagination a:hover:not(.active) { 
+  background-color: #ddd;
+}
+img.img-responsive{
+  width:100%;
+  margin-bottom:65px;
+  opacity:1;
+  margin-top:0px;
+}
+
+nav.navbar.navbar-default{
+  background:none;
+  border:none;
+  box-shadow:none;
+}
+
+div.row{
+  margin-bottom:0px;
+}
+
+h1.text-center{
+  font-size:70px;
+}
+
+p{
+  font-size:26px;
+}
+
+a.navbar-brand.navbar-link{
+  font-size:30px;
+  margin-top:5px;
+}
+
+div.jumbotron1{
+}
+
+div.jumbotron1{
+ 
+}
+
+div.container-fluid1{
+  width:40%;
+}
+
+div.container-fluid1{
+  width:20%;
+}
+
+div.container-fluid1{
+  width:50px;
+}
+
+div.container-fluid{
+  width:40%;
+  margin-left:0px;
+}
+
+div.container{
+  width:40%;
+  margin-right:0pc;
+  margin-top:0px;
+}
+
+
+p1{
+  margin-top:59px;
+}
+
+th{
+  font-size:25px;
+  text-align:center;
+}
+
+td{
+  width:40%;
+  font-size:20px;
+}
+
+h4{
+  font-size:50px;
+  margin-top:50px;
+}
+
+div.table-responsive{
+  width:100%;
+
+}
+
+img.img-responsive{
+  margin-top:0px;
+}
+
+nav{
+}
+
+div.jumbotron{
+  background-color:#e0e0e0;
+  
+}
+
+img.img-responsive{
+  margin-bottom:0px;
+}
+
+img.img-responsive{
+  margin-top:0px;
+}
+
+div.row{
+}
+
+div.col-md-12.col-md-push-0{
+}
+
+table {
+  margin-top: 100px;
+  ;
+  
+}
+.column {
+
+  margin-left: 20px;
+}
+.akshay {
+  color: red;
+
+}
+.red {
+
+  color: #FF0000;
+}
+
+.green {
+
+  color: #14FF3C;
+  
+  width: 40%;
+}
+
+ .orange {
+color: #FFB414;
+width: 40%;
+
+ }
+ .blue {
+
+  color: #7878FF;
+  width: 40%;
+ }
+
+ .voilet {
+
+  color: #B43C78;
+  width: 40%;
+ }
+ .black {
+
+  color: #000000;
+
+ }
+ .yellow {
+  color: #FFF014;
+  width: 40%;
+ }
+ .mapinfo {
+
+  font-size: 22px;
+  margin-top: 50px;
+ }

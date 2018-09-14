@@ -1,0 +1,62 @@
+p1{
+  margin-top:50px;
+}
+
+h2{
+  margin-top:200px;
+  font-style:Serif;
+}
+
+strong{
+  margin-top:200px;
+}
+
+div.jumbotron{
+  margin-left: 20px;
+  margin-right: 10px;
+
+}
+div.jumbotron:hover{
+  margin-left:0px;
+  margin-right: 0px;
+  background: black;
+  opacity: 1;
+  animation: 0.7s;
+  transition: 0.7s;
+  color: white;
+
+}
+
+.btn-default:hover {
+	color: black;
+	background-color: white;
+    animation: 0.7s;
+  transition: 0.7s;
+}
+.main {
+   margin-top: 100px;
+}
+.bird {
+
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
+
+
+/* no-gutters Class Rules */
+.row.no-gutters {
+   margin-right: 0;
+   margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+   padding-right: 0;
+   padding-left: 0;
+}
+
+.fst {
+
+  margin-top: 100px;
+  background-color: #e0e0e0;
+}
